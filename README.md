@@ -6,4 +6,6 @@ This procedure requires installing the Office Deployment Tool (ODT).  It can be 
 https://www.microsoft.com/en-us/download/details.aspx?id=49117
 
 Usage:
-Once ODT is installed in the proper location, place the batch file and the three XML files inside the ODT directory.  Then run the batch file and wait.
+Once ODT is installed in the proper location, place the batch file and the three XML files inside the ODT directory.  
+
+Open a CMD as an administrator and navigate to the ODT folder.  Then run the batch file and wait.
